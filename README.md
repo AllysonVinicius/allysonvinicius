@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/AllysonVinicius">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AllysonVinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllysonVinicius&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AllysonVinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllysonVinicius&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Allyson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
